@@ -192,7 +192,7 @@ Designed and shipped a responsive B2B business website — product catalog, supp
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harsh-2706&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=DCFF4F&icon_color=DCFF4F&text_color=F7F6F2&border_color=1C1C1C&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harsh-2706&layout=compact&theme=dark&bg_color=0A0A0A&title_color=DCFF4F&text_color=F7F6F2&border_color=1C1C1C&hide_border=true" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=Harsh-2706&theme=dark&background=0A0A0A&ring=DCFF4F&fire=DCFF4F&currStreakLabel=DCFF4F&sideNums=F7F6F2&dates=B6B3AA&border=1C1C1C&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Harsh-2706&theme=dark&background=0A0A0A&ring=DCFF4F&fire=DCFF4F&currStreakLabel=DCFF4F&sideNums=F7F6F2&dates=B6B3AA&border=1C1C1C&hide_border=true&r=2" alt="GitHub Streak" width="70%" />
 
 </div>
 
@@ -216,9 +216,5 @@ Open to AI/ML and software engineering internships, and always happy to talk abo
 <a href="https://linkedin.com/in/harsh-bubna"><img src="https://img.shields.io/badge/harsh--bubna-DCFF4F?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
 <a href="https://github.com/Harsh-2706"><img src="https://img.shields.io/badge/Harsh--2706-DCFF4F?style=for-the-badge&logo=github&logoColor=0A0A0A" alt="GitHub" /></a>
 <a href="https://harsh-2706.github.io/harsh-bubna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-DCFF4F?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio" /></a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=80" width="100%" alt="" />
 
 </div>
