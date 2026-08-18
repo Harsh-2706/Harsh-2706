@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1B27&height=170&section=header&text=Harsh%20Nilesh%20Bubna&fontSize=42&fontColor=A78BFA&fontAlignY=45&animation=fadeIn&desc=AI/ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=17&descColor=9CA3AF&descAlignY=62" width="100%" alt="Harsh Nilesh Bubna" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=150&section=header&text=Harsh%20Bubna&fontSize=38&fontColor=DCFF4F&fontAlignY=42&animation=fadeIn&desc=AI/ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Generative%20AI%20Builder&descSize=15&descColor=B6B3AA&descAlignY=68&fontFamily=Space+Grotesk" width="100%" alt="Harsh Bubna" />
 
 <a href="https://harsh-2706.github.io/harsh-bubna-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;Generative+AI+%2F+RAG+Builder;Full+Stack+%26+Backend+Engineer;Turning+ML+Research+Into+Shipped+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=DCFF4F&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer;Generative+AI+%2F+RAG+Builder;Full+Stack+%26+Backend+Engineer;Turning+ML+Research+Into+Shipped+Products" alt="Typing SVG" />
 </a>
 
 <br />
 
-B.Tech CSE (AI &amp; ML) @ SRM Institute of Science and Technology &nbsp;·&nbsp; Mumbai, India
+B.Tech CSE (AI &amp; ML) @ SRM Institute of Science and Technology
 
 <p>
-  <a href="https://harsh-2706.github.io/harsh-bubna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://harsh-2706.github.io/harsh-bubna-portfolio/Harsh_Bubna_Resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
-  <a href="https://linkedin.com/in/harsh-bubna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harsh.bubna06@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://harsh-2706.github.io/harsh-bubna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-DCFF4F?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/harsh-bubna"><img src="https://img.shields.io/badge/LinkedIn-DCFF4F?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
+  <a href="mailto:harsh.bubna06@gmail.com"><img src="https://img.shields.io/badge/Email-DCFF4F?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
+  <a href="https://github.com/Harsh-2706"><img src="https://img.shields.io/badge/GitHub-DCFF4F?style=for-the-badge&logo=github&logoColor=0A0A0A" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -189,10 +189,10 @@ Designed and shipped a responsive B2B business website — product catalog, supp
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harsh-2706&show_icons=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_color=21262D&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harsh-2706&layout=compact&theme=dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=21262D&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harsh-2706&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=DCFF4F&icon_color=DCFF4F&text_color=F7F6F2&border_color=1C1C1C&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harsh-2706&layout=compact&theme=dark&bg_color=0A0A0A&title_color=DCFF4F&text_color=F7F6F2&border_color=1C1C1C&hide_border=true" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=Harsh-2706&theme=dark&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border=21262D&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Harsh-2706&theme=dark&background=0A0A0A&ring=DCFF4F&fire=DCFF4F&currStreakLabel=DCFF4F&sideNums=F7F6F2&dates=B6B3AA&border=1C1C1C&hide_border=true" alt="GitHub Streak" width="70%" />
 
 </div>
 
@@ -212,13 +212,13 @@ Designed and shipped a responsive B2B business website — product catalog, supp
 
 Open to AI/ML and software engineering internships, and always happy to talk about RAG pipelines, generative AI, or full-stack builds.
 
-<a href="mailto:harsh.bubna06@gmail.com"><img src="https://img.shields.io/badge/harsh.bubna06%40gmail.com-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/harsh-bubna"><img src="https://img.shields.io/badge/harsh--bubna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Harsh-2706"><img src="https://img.shields.io/badge/Harsh--2706-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://harsh-2706.github.io/harsh-bubna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:harsh.bubna06@gmail.com"><img src="https://img.shields.io/badge/harsh.bubna06%40gmail.com-DCFF4F?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
+<a href="https://linkedin.com/in/harsh-bubna"><img src="https://img.shields.io/badge/harsh--bubna-DCFF4F?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
+<a href="https://github.com/Harsh-2706"><img src="https://img.shields.io/badge/Harsh--2706-DCFF4F?style=for-the-badge&logo=github&logoColor=0A0A0A" alt="GitHub" /></a>
+<a href="https://harsh-2706.github.io/harsh-bubna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-DCFF4F?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio" /></a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:0D1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=80" width="100%" alt="" />
 
 </div>
